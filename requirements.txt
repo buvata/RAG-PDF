@@ -1,0 +1,19 @@
+transformers # Update transformers to a newer version
+bitsandbytes
+accelerate
+langchain
+langchainhub
+langchain-chroma
+langchain_experimental
+langchain-community
+langchain_huggingface
+python-dotenv
+pypdf
+streamlit
+pyngrok
+torch
+PyPDF2
+pymongo
+langchain-mongodb
+dnspython
+pydantic
