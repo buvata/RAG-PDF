@@ -1,0 +1,7 @@
+# MongoDB Connection
+MONGODB_URI=mongodb+srv://taibui:Tai1996%40@taibui.czouy8u.mongodb.net/
+
+# Database & Collection
+DB_NAME=rag_db
+COLLECTION_NAME=rag_collection
+VECTOR_INDEX_NAME=vector_index
